@@ -1,8 +1,9 @@
+import Header from "./components/Header/Header"
+import './App.css'
+
 const App = () => {
   return (
-    <di>
-      <h1>Welcome to My App</h1>    
-    </di>
+    <Header />
   )
 }
 
