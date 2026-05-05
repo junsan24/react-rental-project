@@ -1,3 +1,14 @@
 html {
     font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;;
+}
+
+.app {
+    margin-top: 4rem;
+}
+
+@media (max-width: 800px) {
+    .app {
+        margin-top: 9rem;
+    }
 }

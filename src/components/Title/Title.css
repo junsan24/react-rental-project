@@ -1,0 +1,12 @@
+.title-section {
+    text-align: center;
+    margin: 1.25rem 0;
+}
+
+.title-section h1 {
+    color: #262637;
+    font-size: 1.75rem;
+    display: inline-block;
+    border-bottom: 0.125rem solid #2CDEB6;
+    padding: 0.625rem;
+}
