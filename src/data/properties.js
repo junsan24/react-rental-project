@@ -25,7 +25,7 @@ const properties = [
     },
     {
         id: 3,
-        type: 'House',
+        type: 'Cottage',
         image: 'images/image03.jpg',
         bedroom: 2,
         bathroom: 1,
@@ -37,7 +37,7 @@ const properties = [
     },
     {
         id: 4,
-        type: 'House',
+        type: 'Flat',
         image: 'images/image04.jpg',
         bedroom: 2,
         bathroom: 1,

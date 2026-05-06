@@ -1,5 +1,6 @@
 import PropertyImage from "./PropertyImage/PropertyImage"
 import './Property.css'
+import PropertyTypeLabel from "./PropertyImage/PropertyTypeLabel/PropertyTypeLabel"
 
 const Property = (
     {
@@ -17,7 +18,7 @@ const Property = (
     return (
         <div className="property-card">
             <PropertyImage image={image} >
-                <span>This is a text.</span>
+                <PropertyTypeLabel type={type} />
             </PropertyImage>
         </div>
     )
