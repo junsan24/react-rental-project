@@ -21,7 +21,7 @@ const properties = [
         address: '456 Side Street, Cambridge',
         rent: 1500,
         date: 'March 15',
-        available: true
+        available: false
     },
     {
         id: 3,
@@ -45,7 +45,7 @@ const properties = [
         address: '456 Side Street, Cambridge',
         rent: 1500,
         date: 'March 15',
-        available: true
+        available: false
     }
 ]
 
